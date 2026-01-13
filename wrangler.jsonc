@@ -3,7 +3,7 @@
   "compatibility_date": "2026-01-13",
   "type": "javascript",               // Use "javascript" for Workers
   "site": {
-    "bucket": "./excellent",               // Folder containing index.html and other assets
-    "main": "dist"     // Default for Wrangler static sites
+    "bucket": "./dist",               // Folder containing index.html and other assets
+    "main": "index.html"     // Default for Wrangler static sites
   }
 }
