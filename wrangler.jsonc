@@ -6,7 +6,7 @@
   // Specify the folder containing all your static files
   "site": {
     "bucket": "./dist",               // Folder containing index.html, CSS, JS, etc.
-    "main":" dist/index.html"
+  
   }
   
 }
