@@ -12,8 +12,8 @@
 // }
 
 {
-    "main" : "Excellent/dist",
-  "name": "Excellent",
+    "main" : "excellent/dist",
+  "name": "excellent",
   "compatibility_date": "2026-01-13",
   "site": {
     "bucket": "./dist"
