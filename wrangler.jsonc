@@ -1,5 +1,5 @@
 {
-    "main":"index",
+    "main":"dist",
   "name": "dist",             // Replace with your Worker name
   "compatibility_date": "2026-01-13",
 
