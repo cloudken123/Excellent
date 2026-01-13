@@ -1,16 +1,23 @@
+// {
+//     "main":"dist",
+//   "name": "dist",             // Replace with your Worker name
+//   "compatibility_date": "2026-01-13",
+
+//   // Specify the folder containing all your static files
+//   "site": {
+//     "bucket": "./dist"             // Folder containing index.html, CSS, JS, etc.
+  
+//   }
+  
+// }
+
 {
-    "main":"dist",
-  "name": "dist",             // Replace with your Worker name
+  "name": "dist",
   "compatibility_date": "2026-01-13",
-
-  // Specify the folder containing all your static files
   "site": {
-    "bucket": "./dist"             // Folder containing index.html, CSS, JS, etc.
-  
+    "bucket": "./dist"
   }
-  
 }
-
 
 
     
