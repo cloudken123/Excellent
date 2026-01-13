@@ -1,9 +1,9 @@
 {
-  "name": "dist",              // Replace with your desired Worker name
+  "name": "excellent",             // Replace with your Worker name
   "compatibility_date": "2026-01-13",
-  "type": "javascript",               // Use "javascript" for Workers
+
+  // Specify the folder containing all your static files
   "site": {
-    "bucket": "./dist",               // Folder containing index.html and other assets
-    "main": "index.html"     // Default for Wrangler static sites
+    "bucket": "./dist"               // Folder containing index.html, CSS, JS, etc.
   }
 }
