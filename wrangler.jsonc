@@ -1,6 +1,6 @@
 {
-    "main":"dist/",
-  "name": "excellent",             // Replace with your Worker name
+    "main":"index",
+  "name": "dist",             // Replace with your Worker name
   "compatibility_date": "2026-01-13",
 
   // Specify the folder containing all your static files
