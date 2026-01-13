@@ -12,6 +12,7 @@
 // }
 
 {
+    "main" : "Excellent/dist",
   "name": "Excellent",
   "compatibility_date": "2026-01-13",
   "site": {
