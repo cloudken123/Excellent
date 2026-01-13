@@ -1,7 +1,9 @@
- {
-	    "name": "worker-name",
-	    "compatibility_date": "2026-01-13",
-	    "assets": {
-	      "directory": "./index.html"
-	    }
+{
+  "name": "excellent",              // Replace with your desired Worker name
+  "compatibility_date": "2026-01-13",
+  "type": "javascript",               // Use "javascript" for Workers
+  "site": {
+    "bucket": "./excellent",               // Folder containing index.html and other assets
+    "entry-point": "excellent"     // Default for Wrangler static sites
+  }
 }
